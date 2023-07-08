@@ -1,0 +1,35 @@
+<html>
+
+<title>
+biodata.html
+</title>
+
+<center>
+<body bgcolor="red">
+
+<p align "center">
+
+<br><br>
+
+<font color="black" size="5">
+ Name: Muhammad Fazrul Izhan Bin Yaacob
+
+<p>
+<font color="blue" size="5">
+ Address: Kota Bharu Kelantan
+
+<p>
+<font color="green" size=5"> 
+Phone Number:0179464081 
+
+<p>
+<font color="blue" size="5">
+ height:173
+
+<p>
+<font color="purple" size="5"> 
+Weight:65 
+
+
+</body>
+</html>
